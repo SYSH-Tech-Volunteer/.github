@@ -2,7 +2,7 @@
 
 # 西苑高中資訊志工隊
 
-![](https://raw.githubusercontent.com/SYSH-Tech-Volunteer/.github/main/team.jpg)
+<img src=https://raw.githubusercontent.com/SYSH-Tech-Volunteer/Web-Design-Camp/main/group.jpg style='width:300px;margin:0 auto;'>
 
 </div>
 
